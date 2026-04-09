@@ -1,3 +1,3 @@
 module github.com/lizwerqty/hello-golang
 
-go 1.25.4
+go 1.22
